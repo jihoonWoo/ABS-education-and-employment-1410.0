@@ -1,2 +1,2 @@
-# public_insights
-Repository stores code and data for public data insights
+# Education and Employment Data
+Repository stores code and data for Education and Employment Data
