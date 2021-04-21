@@ -7,3 +7,5 @@ The data “Education and Employment, ASGS and LGA, 2011, 2014-19” from “141
 
 ## About Software
 The "data_transformation.ipynb" Jupyter Notebook reads the ABS data to transform into a required format for data insight generation.
+
+Cite the code: [![DOI](https://zenodo.org/badge/357394635.svg)](https://zenodo.org/badge/latestdoi/357394635)
