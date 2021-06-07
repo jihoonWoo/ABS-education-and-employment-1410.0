@@ -1,11 +1,8 @@
-# About repository
+# Data 
+## Title: ABS-education-and-employment-1410.0
+## DOI: 10.5281/zenodo.4706870
+## Data Description: 
+The “Education and Employment, ASGS and LGA, 2011, 2014-19” (14100do0005_2014-19.xlsx) data is one of the data cubes within the “1410.0 - Data by Region, 2014-19” collection by the Australian Bureau of Statistics (ABS). The ABS is the national statistical agency in Australia that provides a wide range of data on economic, population, environmental, and social issues. The “Education and Employment, ASGS and LGA, 2011, 2014-19” data includes Australia’ education and employment data between 2014 and 2019 with various Australian Statistical Geography Standards (ASGS) such as Australia, State and Territory, Greater Capital City Statistical Areas (GCCSA), SA2, SA3, SA4, and Local Government Area (LGA). 
 
-This repository was made to transform ABS data to a required format for data insight generation. The repository includes ABS data ("14100do0005_2014-19.xlsx") and Jupyter Notebook ("data_transformation.ipynb").
+We transformed this ABS data to an easy-to-process format and saved it to a new CSV file called “transformed_data.csv” in this repository.
 
-## About data
-The data “Education and Employment, ASGS and LGA, 2011, 2014-19” from “1410.0 - Data by Region, 2014-19” collection by the Australian Bureau of Statistics (ABS). This data collection contains information about education and employment in Australia between 2014 and 2019. The [ABS](https://www.abs.gov.au/) is a national statistical agency in Australia and provides a wide range of statistical data collections on economic, population, environmental, and social issues.
-
-## About Software
-The "data_transformation.ipynb" Jupyter Notebook reads the ABS data to transform into a required format for data insight generation.
-
-Cite the code: [![DOI](https://zenodo.org/badge/357394635.svg)](https://zenodo.org/badge/latestdoi/357394635)
