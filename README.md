@@ -1,6 +1,6 @@
 # Readme
 
-The purpose of this repository is to transform for data insight generation. The repository includes source data and Jupyter Notebook as well as the transformed data.
+The purpose of this repository is to store transformed data for insight generation. We saved the details of the process in 'data_transformation.ipynb' Jupyter Notebook.
 
 ## Data 
 **Title**: ABS-education-and-employment-1410.0
